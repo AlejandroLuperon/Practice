@@ -25,18 +25,14 @@ public class Trie {
                 current = mapper.get(substring);
             }
 
-            if (j == word.length() && mapper.containsKey(substring.substring(0, j-1)) && !mapper.get(substring.substring(0, j-1)).words.contains(current.prefix)) {
-                previous = mapper.get(substring.substring(0, j-1));
-                previous.words.add(current.prefix);
+            if (j == word.length()) {
+                current.inserted = true;
             }
         }
     }
 
     public boolean search(String word) {
-        if (word.length() == 1) {
-            return mapper.containsKey(word);
-        }
-        return (mapper.containsKey(word.substring(0, word.length()-1)) &&  mapper.get(word.substring(0, word.length()-1)).words.contains(word)) ;
+        return mapper.containsKey(word) && mapper.get(word).inserted ;
     }
 
     public boolean startsWith(String prefix) {
