@@ -2,10 +2,10 @@ package AddAndSearchWord;
 
 import java.util.Stack;
 
-public class WordDictionary {
+public class WordDictionaryBugFixes {
     public Node root = new Node(null);
     /** Initialize your data structure here. */
-    public WordDictionary() {
+    public WordDictionaryBugFixes() {
 
     }
 
@@ -56,11 +56,19 @@ public class WordDictionary {
             String unit = "";
             for (int i = 1; i <= word.length(); i++) {
                 unit = word.substring(i-1,i);
-
                 if (unit.equals(".")) {
                     for (Node inNode : track) {
                         for (Node inLink : inNode.links) {
-                            nextTrack.add(inLink);
+                            System.out.println("Unit " + unit);
+                            System.out.println("inLink.prefix " + inLink.prefix);
+
+                            if (word.length() == i) {
+                                if (inLink.inserted) {
+                                    nextTrack.add(inLink);
+                                }
+                            } else {
+                                nextTrack.add(inLink);
+                            }
                         }
                     }
 
@@ -74,9 +82,17 @@ public class WordDictionary {
                 } else {
                     for (Node inNode : track) {
                         for (Node inLink : inNode.links) {
-                            if (inLink.prefix.substring(inLink.prefix.length()-1).equals(unit)){
+
+                            if (inLink.prefix.substring(inLink.prefix.length()-1).equals(unit) && word.length() != i){
                                 nextTrack.add(inLink);
                             }
+
+                            if (inLink.prefix.substring(inLink.prefix.length()-1).equals(unit) && word.length() == i){
+                                if (inLink.inserted) {
+                                    nextTrack.add(inLink);
+                                }
+                            }
+
                         }
                     }
                     if (nextTrack.size() == 0) {
