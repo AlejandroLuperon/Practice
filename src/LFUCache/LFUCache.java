@@ -20,30 +20,30 @@ public class LFUCache {
         if (itsNodeMap.containsKey(key)) {
             theNode = itsNodeMap.get(key);
             theNode.retrievals++;
+
             itsRetrievalMap.get(theNode.retrievals-1).remove(theNode);
-            if (itsRetrievalMap.containsKey(theNode.retrievals)) {
-                itsRetrievalMap.get(theNode.retrievals).add(theNode);
-            } else {
-                itsRetrievalMap.put(theNode.retrievals, new LinkedList<Node>(){{add(theNode);}});
+            if (!itsRetrievalMap.containsKey(theNode.retrievals)) {
+                itsRetrievalMap.put(theNode.retrievals, new LinkedList<Node>());
+
             }
+            itsRetrievalMap.get(theNode.retrievals).addFirst(theNode);
+            
             return theNode.val;
         }
         return -1;
     }
 
     public void put(int key, int value) {
-        if (population == capacity) {
+        if (population == capacity && !itsNodeMap.containsKey(key)) {
             if (capacity == 0) {
                 return;
             } else {
-                boolean flag = true;
                 int i = 0;
-                while (flag) {
-                    Node theNodeToRemove;
+                Node theNodeToRemove;
+                while (true) {
                     if (itsRetrievalMap.containsKey(i)) {
                         if (itsRetrievalMap.get(i).size() > 0) {
                             theNodeToRemove = itsRetrievalMap.get(i).removeLast();
-                            flag = false;
                             itsNodeMap.remove(theNodeToRemove.key);
                             break;
                         } else {
@@ -61,8 +61,14 @@ public class LFUCache {
         if (itsNodeMap.containsKey(key)) {
             theNode = itsNodeMap.get(key);
             theNode.val = value;
-            itsRetrievalMap.get(theNode.retrievals).remove(theNode);
+            theNode.retrievals++;
+
+            itsRetrievalMap.get(theNode.retrievals-1).remove(theNode);
+            if (!itsRetrievalMap.containsKey(theNode.retrievals)) {
+                itsRetrievalMap.put(theNode.retrievals, new LinkedList<Node>());
+            }
             itsRetrievalMap.get(theNode.retrievals).addFirst(theNode);
+
         } else {
             theNode = new Node(key, value);
             if (!itsRetrievalMap.containsKey(0)) {
@@ -70,7 +76,10 @@ public class LFUCache {
             }
             itsRetrievalMap.get(0).addFirst(theNode);
             itsNodeMap.put(key, theNode);
+            if (population < capacity) {
+                population++;
+
+            }
         }
-        population++;
     }
 }
