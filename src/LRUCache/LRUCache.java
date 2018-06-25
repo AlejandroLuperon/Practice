@@ -1,11 +1,13 @@
 package LRUCache;
 
 
+import java.util.HashMap;
 import java.util.LinkedList;
 
 
 public class LRUCache {
     LinkedList<Node> itsLog = new LinkedList<Node>();
+    HashMap<Integer, Node> itsQuickRetrievalMap = new HashMap<Integer, Node>();
     int itsCapacity;
     public LRUCache(int capacity) {
         itsCapacity = capacity;
@@ -34,18 +36,19 @@ public class LRUCache {
         Node theNewNode = new Node(key, value);
 
         if (itsCapacity == itsLog.size()) {
-            itsLog.removeLast();
+            Node theLastNode = itsLog.removeLast();
+            itsQuickRetrievalMap.remove(theLastNode.key);
         }
 
+        itsQuickRetrievalMap.put(key, theNewNode);
         itsLog.addFirst(theNewNode);
     }
 
     public Node search(int key) {
-        for (Node inNode : itsLog) {
-            if (inNode.key == key) {
-                return inNode;
-            }
+        if (itsQuickRetrievalMap.containsKey(key)) {
+            return itsQuickRetrievalMap.get(key);
         }
+
         return null;
     }
 }
