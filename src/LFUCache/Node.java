@@ -1,8 +1,5 @@
 package LFUCache;
 
-/**
- */
-
 public class Node {
     public Node left = null;
     public Node right = null;

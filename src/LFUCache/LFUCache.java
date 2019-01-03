@@ -1,85 +1,74 @@
 package LFUCache;
 
-
 import java.util.HashMap;
 import java.util.LinkedList;
 
 
-public class LFUCache {
-    HashMap<Integer, LinkedList<Node>> itsRetrievalMap = new HashMap<Integer, LinkedList<Node>>();
-    HashMap<Integer, Node> itsNodeMap = new HashMap<Integer, Node>();
+class LFUCache {
+    HashMap<Integer, LinkedList<Node>> retrievalMap = new HashMap<Integer, LinkedList<Node>>();
+    HashMap<Integer, Node> nodeMap = new HashMap<Integer, Node>();
     int capacity;
     int population = 0;
 
-    public LFUCache(int inCapacity) {
-        capacity = inCapacity;
+    public LFUCache(int capacity) {
+        this.capacity = capacity;
     }
 
     public int get(int key) {
-        Node theNode;
-        if (itsNodeMap.containsKey(key)) {
-            theNode = itsNodeMap.get(key);
-            theNode.retrievals++;
-
-            itsRetrievalMap.get(theNode.retrievals-1).remove(theNode);
-            if (!itsRetrievalMap.containsKey(theNode.retrievals)) {
-                itsRetrievalMap.put(theNode.retrievals, new LinkedList<Node>());
-
-            }
-            itsRetrievalMap.get(theNode.retrievals).addFirst(theNode);
-            
-            return theNode.val;
+        Node node;
+        if (nodeMap.containsKey(key)) {
+            node = nodeMap.get(key);
+            moveNode(node);
+            return node.val;
         }
         return -1;
     }
 
     public void put(int key, int value) {
-        if (population == capacity && !itsNodeMap.containsKey(key)) {
-            if (capacity == 0) {
-                return;
-            } else {
-                int i = 0;
-                Node theNodeToRemove;
-                while (true) {
-                    if (itsRetrievalMap.containsKey(i)) {
-                        if (itsRetrievalMap.get(i).size() > 0) {
-                            theNodeToRemove = itsRetrievalMap.get(i).removeLast();
-                            itsNodeMap.remove(theNodeToRemove.key);
-                            break;
-                        } else {
-                            i++;
-                        }
-                    } else {
-                        i++;
-                    }
+        if (capacity == 0) {
+           return;
+        }
+
+        if (population == capacity && !nodeMap.containsKey(key)) {
+            int i = 0;
+            Node nodeToRemove;
+            while (true) {
+                if (retrievalMap.containsKey(i) && retrievalMap.get(i).size() > 0) {
+                    nodeToRemove = retrievalMap.get(i).removeLast();
+                    nodeMap.remove(nodeToRemove.key);
+                    break;
+                } else {
+                    i++;
                 }
             }
         }
 
-        Node theNode;
+        Node node;
 
-        if (itsNodeMap.containsKey(key)) {
-            theNode = itsNodeMap.get(key);
-            theNode.val = value;
-            theNode.retrievals++;
-
-            itsRetrievalMap.get(theNode.retrievals-1).remove(theNode);
-            if (!itsRetrievalMap.containsKey(theNode.retrievals)) {
-                itsRetrievalMap.put(theNode.retrievals, new LinkedList<Node>());
-            }
-            itsRetrievalMap.get(theNode.retrievals).addFirst(theNode);
-
+        if (nodeMap.containsKey(key)) {
+            node = nodeMap.get(key);
+            node.val = value;
+            moveNode(node);
         } else {
-            theNode = new Node(key, value);
-            if (!itsRetrievalMap.containsKey(0)) {
-                itsRetrievalMap.put(0, new LinkedList<Node>());
+            node = new Node(key, value);
+            if (!retrievalMap.containsKey(0)) {
+                retrievalMap.put(0, new LinkedList<Node>());
             }
-            itsRetrievalMap.get(0).addFirst(theNode);
-            itsNodeMap.put(key, theNode);
+            retrievalMap.get(0).addFirst(node);
+            nodeMap.put(key, node);
             if (population < capacity) {
                 population++;
 
             }
         }
+    }
+
+    private void moveNode(Node node) {
+        node.retrievals++;
+        retrievalMap.get(node.retrievals-1).remove(node);
+        if (!retrievalMap.containsKey(node.retrievals)) {
+            retrievalMap.put(node.retrievals, new LinkedList<Node>());
+        }
+        retrievalMap.get(node.retrievals).addFirst(node);
     }
 }
