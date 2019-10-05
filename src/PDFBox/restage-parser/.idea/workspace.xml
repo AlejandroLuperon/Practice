@@ -1,0 +1,614 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="027d9af9-c7f3-4766-9498-b2fbf81661f6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../BobTheAdventurer/Point2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BobTheAdventurer/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BobTheAdventurer/Solution2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FirstMissingPositive/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FirstMissingPositive/Solution2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ant_ant_1_6_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__classworlds_classworlds_1_1_alpha_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_virtuald_curvesapi_1_04.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_annotations_2_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_15_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_itextpdf_itextpdf_5_5_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_itextpdf_tool_xmlworker_5_5_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_3_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_mabboud_fontverter_FontVerter_1_2_18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_cssbox_cssbox_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_cssbox_jstyleparser_1_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_cssbox_pdf2dom_1_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_nekohtml_nekohtml_1_9_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_antlr_antlr_runtime_3_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_collections4_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_artifact_2_0_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_artifact_manager_2_0_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_model_2_0_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_plugin_api_2_0_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_profile_2_0_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_project_2_0_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_repository_metadata_2_0_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_settings_2_0_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_wagon_wagon_provider_api_1_0_beta_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_pdfbox_fontbox_2_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_pdfbox_pdfbox_2_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_pdfbox_pdfbox_debugger_2_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_pdfbox_pdfbox_tools_2_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_3_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_ooxml_3_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_ooxml_schemas_3_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_scratchpad_3_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xmlbeans_xmlbeans_2_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xmlgraphics_batik_anim_1_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xmlgraphics_batik_awt_util_1_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xmlgraphics_batik_bridge_1_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xmlgraphics_batik_css_1_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xmlgraphics_batik_dom_1_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xmlgraphics_batik_ext_1_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xmlgraphics_batik_gvt_1_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xmlgraphics_batik_parser_1_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xmlgraphics_batik_script_1_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xmlgraphics_batik_svg_dom_1_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xmlgraphics_batik_svggen_1_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xmlgraphics_batik_transcoder_1_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xmlgraphics_batik_util_1_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xmlgraphics_batik_xml_1_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_plexus_plexus_container_default_1_0_alpha_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_plexus_plexus_utils_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_18_2_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jfrog_jade_plugins_common_jade_plugin_common_1_3_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jfrog_maven_annomojo_maven_plugin_anno_1_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_reflections_reflections_0_9_9_RC2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_reflections_reflections_maven_0_9_9_RC2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_unbescape_unbescape_1_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__stax_stax_api_1_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xalan_xalan_2_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xerces_xercesImpl_2_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xml_apis_xml_apis_1_3_04.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xml_apis_xml_apis_ext_1_3_04.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xpp3_xpp3_1_1_3_4_RC8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xstream_xstream_1_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restage-parser.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/restageparser/app/PDF2DomExperiment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Lisa.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/SSP.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/adha.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/esri.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Sandbox/MergeSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Practice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Practice.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/AbstractClass/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/AbstractClass/AbstractClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/AbstractClass/B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/AbstractClass/M.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/AddAndSearchWord/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/AddAndSearchWord/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/AddAndSearchWord/WordDictionary$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/AddAndSearchWord/WordDictionary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/AddAndSearchWord/WordDictionaryBugFixes$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/AddAndSearchWord/WordDictionaryBugFixes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/AddDigits/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/AllOne/AllOne.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/AllOne/Key.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/AllOne/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/BestTimeToBuyAndSellStock/Instance.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/BestTimeToBuyAndSellStock/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/BinaryTreeInorderTraversal/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/BinaryTreeInorderTraversal/TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/BinaryTreePostOrderTraversal/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/BinaryTreePostOrderTraversal/TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/BinaryTreePreorderTraversal/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/BinaryTreePreorderTraversal/TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/CleverIntegerReversal/CleverIntegerReversal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/CleverIntegerReversal/CleverIntegerReversalWorkingSolution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/CleverIntegerReversal/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/CloneGraph/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/CloneGraph/SolutionBFS.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/CloneGraph/SolutionDFS.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/CloneGraph/SubmittedSolutionBFS.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/CloneGraph/UndirectedGraphNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/CourseSchedule/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/CourseSchedule/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/CourseSchedule/SubmittedSolution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/CourseSchedule/SubmittedSolutionTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/CourseScheduleII/CopyOfCourseScheduleIISubmittedSolution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/CourseScheduleII/Course.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/CourseScheduleII/CourseScheduleIISubmittedSolution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/CourseScheduleII/Example.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/CourseScheduleII/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/CourseScheduleII/TopologicalSortDFS.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/CoverPoints/CoverPoints.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/CoverPoints/Solution$Coordinate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/CoverPoints/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/DungeonGame/Cell.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/DungeonGame/DungeonGame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/DungeonGame/DungeonGameDynamicProgramming.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/DungeonGame/DungeonGameReverseTrace.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/DungeonGame/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/DungeonGame/Path.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/DungeonGame/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/EditDistance/EditDistance.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/FlattenBinaryTreeToLinkedList/FlattenBinaryTreeToLinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/FlattenBinaryTreeToLinkedList/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/FlattenBinaryTreeToLinkedList/TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/Graphs/BFSSolution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/Graphs/BreadthFirstSearch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/Graphs/DFSSolution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/Graphs/DepthFirstSearch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/Graphs/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/ImplementTrie/CurrentSubmittedSolution$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/ImplementTrie/CurrentSubmittedSolution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/ImplementTrie/ImplementTrie.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/ImplementTrie/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/ImplementTrie/ProperTrie.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/ImplementTrie/Sandbox.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/ImplementTrie/Solution$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/ImplementTrie/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/ImplementTrie/Trie.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/ImplementTrie/TrieNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/IntersectionOfTwoLinkedLists/IntersectionOfTwoLinkedLists.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/IntersectionOfTwoLinkedLists/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/IntersectionOfTwoLinkedLists/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/JumpGame/JumpGame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/JumpGame/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/JumpGame/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/JumpGameII/JumpGameII.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/JumpGameII/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/JumpGameII/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/LFUCache/LFUCache.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/LFUCache/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/LFUCache/OldLFUCache.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/LFUCache/SavingStateLFUCache.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/LFUCache/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/LRUCache/LRUCache.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/LRUCache/LRUCacheTimeExceeded.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/LRUCache/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/LRUCache/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/LangstonsAnt/Ant.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/LangstonsAnt/Cell.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/LangstonsAnt/LangstonsAnt$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/LangstonsAnt/LangstonsAnt$Ant.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/LangstonsAnt/LangstonsAnt$Cell.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/LangstonsAnt/LangstonsAnt$Orientation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/LangstonsAnt/LangstonsAnt$Simulation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/LangstonsAnt/LangstonsAnt$State.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/LangstonsAnt/LangstonsAnt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/LangstonsAnt/Simulation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/ListCycle/InefficientSolution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/ListCycle/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/ListCycle/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/MaximumGap/MaximumGap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/MaximumGap/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/MergeIntervals/CollectionsSandbox.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/MergeIntervals/GraphSolution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/MergeIntervals/Interval.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/MergeIntervals/ListSolution$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/MergeIntervals/ListSolution$IntervalComparator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/MergeIntervals/ListSolution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/MergeIntervals/MergeIntervals$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/MergeIntervals/MergeIntervals.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/MergeIntervals/StreamSandbox$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/MergeIntervals/StreamSandbox.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/PowerOfTwo/PowerOfTwo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/PowerOfTwo/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/ReconstructItinerary/Edge.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/ReconstructItinerary/Graph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/ReconstructItinerary/IncorrectItineraryFinder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/ReconstructItinerary/ItineraryFinder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/ReconstructItinerary/ItineraryFinderHierholzer$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/ReconstructItinerary/ItineraryFinderHierholzer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/ReconstructItinerary/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/ReconstructItinerary/ReconstructItinerary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/ReconstructItinerary/ReconstructItineraryEdges.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/ReconstructItinerary/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/ReconstructItinerary/SolutionHierholzer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/RedundantConnection/Edge.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/RedundantConnection/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/RedundantConnection/RedundantConnection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/RedundantConnection/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/RedundantConnection/archive/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/RedundantConnection/archive/SubmittedSolution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/RemoveDuplicateLetters/RemoveDuplicateLetters.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/RemoveDuplicateLetters/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/SerializeAndDeserialize/Codec.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/SerializeAndDeserialize/SerializeAndDeserialize.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/SerializeAndDeserialize/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/SerializeAndDeserialize/TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/SingleOccurrence/SingleOccurrence$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/SingleOccurrence/SingleOccurrence.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/SingleOccurrence/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/StockSpanner/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/StockSpanner/StockSpanner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/SubstringWithConcatenationOfAllWords/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/TopUsers/Solution$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/TopUsers/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/TopUsers/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/UniquePaths/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/UniquePaths/UniquePaths.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/UniquePathsII/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/UniquePathsII/UniquePathsII.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/ValidPalindrome/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/ValidPalindromeII/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/WordBreak/DidntWorkChain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/WordBreak/DidntWorkExperiment$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/WordBreak/DidntWorkExperiment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/WordBreak/DidntWorkSolution$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/WordBreak/DidntWorkSolution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/WordBreak/DidntWorkWord.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/WordBreakII/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/WordBreakII/Segment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/WordBreakII/Solution$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/WordBreakII/Solution$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/WordBreakII/Solution$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/WordBreakII/Solution$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/WordBreakII/Solution$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/WordBreakII/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/WordBreakII/WordBreakII.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/WordBreakII/WordBreakIIAgain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/WordBreakII/WordBreakIIFromLeetCode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/WordBreakII/WordBreakIIUsingSegments.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/WordSearch/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/WordSearch/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Practice/WordSearch/WordSearchJustWorks.class" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/classes/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/restageparser/app/App.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="645">
+              <caret line="43" column="3" selection-start-line="43" selection-start-column="3" selection-end-line="43" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/restageparser/app/PDF2DomExperiment.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+              <folding>
+                <element signature="e#423#424#0" expanded="true" />
+                <element signature="e#491#492#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/fill">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>getclass</find>
+      <find>diamond pac</find>
+      <find>premium exh</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/restageparser/app/App.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/restageparser/app/AppTest.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/restageparser/app/PDF2DomExperiment.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="restage-parser" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="restage-parser" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="25" />
+    <option name="y" value="23" />
+    <option name="width" value="1665" />
+    <option name="height" value="833" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="restage-parser" type="b2602c69:ProjectViewProjectNode" />
+              <item name="restage-parser" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="restage-parser" type="b2602c69:ProjectViewProjectNode" />
+              <item name="restage-parser" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="restage-parser" type="b2602c69:ProjectViewProjectNode" />
+              <item name="restage-parser" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="restage-parser" type="b2602c69:ProjectViewProjectNode" />
+              <item name="restage-parser" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="restage-parser" type="b2602c69:ProjectViewProjectNode" />
+              <item name="restage-parser" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="restage-parser" type="b2602c69:ProjectViewProjectNode" />
+              <item name="restage-parser" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="restage-parser" type="b2602c69:ProjectViewProjectNode" />
+              <item name="restage-parser" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="restage-parser" type="b2602c69:ProjectViewProjectNode" />
+              <item name="restage-parser" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="restage-parser" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.PDF2DomExperiment">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.restageparser.app.App" />
+      <module name="restage-parser" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.restageparser.app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PDF2DomExperiment" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.restageparser.app.PDF2DomExperiment" />
+      <module name="restage-parser" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.restageparser.app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PDF2DomExperiment" />
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="027d9af9-c7f3-4766-9498-b2fbf81661f6" name="Default Changelist" comment="" />
+      <created>1563823234384</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1563823234384</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="25" y="23" width="1665" height="833" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2711029" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.38191634" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39891452" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32928476" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32928476" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" visible="true" weight="0.32963648" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/SSP.html">
+      <provider selected="true" editor-type-id="LargeFileEditor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/restageparser/app/AppTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/restageparser/app/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="43" column="3" selection-start-line="43" selection-start-column="3" selection-end-line="43" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/fill">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/restageparser/app/PDF2DomExperiment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="e#423#424#0" expanded="true" />
+            <element signature="e#491#492#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

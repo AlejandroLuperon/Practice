@@ -1,108 +1,190 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d86f7427-984f-41ea-8a74-373f6429b3a6" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/AddDigits/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AllOne/AllOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AllOne/Key.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AllOne/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BestTimeToBuyAndSellStock/Instance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BestTimeToBuyAndSellStock/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CleverIntegerReversal/CleverIntegerReversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CleverIntegerReversal/CleverIntegerReversalWorkingSolution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CleverIntegerReversal/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CoverPoints/CoverPoints.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CoverPoints/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DungeonGame/Cell.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DungeonGame/DungeonGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DungeonGame/DungeonGameDynamicProgramming.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DungeonGame/DungeonGameReverseTrace.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DungeonGame/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DungeonGame/Path.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DungeonGame/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EditDistance/EditDistance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FlattenBinaryTreeToLinkedList/FlattenBinaryTreeToLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FlattenBinaryTreeToLinkedList/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FlattenBinaryTreeToLinkedList/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Graphs/BFSSolution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Graphs/BreadthFirstSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Graphs/DFSSolution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Graphs/DepthFirstSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Graphs/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IntersectionOfTwoLinkedLists/IntersectionOfTwoLinkedLists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IntersectionOfTwoLinkedLists/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IntersectionOfTwoLinkedLists/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JumpGame/JumpGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JumpGame/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JumpGame/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JumpGameII/JumpGameII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JumpGameII/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JumpGameII/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LangstonsAnt/Ant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LangstonsAnt/Cell.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LangstonsAnt/LangstonsAnt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LangstonsAnt/Simulation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ListCycle/InefficientSolution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ListCycle/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ListCycle/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MaximumGap/MaximumGap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MaximumGap/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PowerOfTwo/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReconstructItinerary/Edge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReconstructItinerary/Graph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReconstructItinerary/IncorrectItineraryFinder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReconstructItinerary/ItineraryFinder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReconstructItinerary/ItineraryFinderHierholzer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReconstructItinerary/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReconstructItinerary/ReconstructItinerary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReconstructItinerary/ReconstructItineraryEdges.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReconstructItinerary/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReconstructItinerary/SolutionHierholzer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RedundantConnection/Edge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RedundantConnection/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RedundantConnection/RedundantConnection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RedundantConnection/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RedundantConnection/archive/RedundantConnection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RedundantConnection/archive/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RedundantConnection/archive/SubmittedSolution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RemoveDuplicateLetters/RemoveDuplicateLetters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RemoveDuplicateLetters/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SerializeAndDeserialize/Codec.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SerializeAndDeserialize/SerializeAndDeserialize.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SerializeAndDeserialize/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SerializeAndDeserialize/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SingleOccurrence/SingleOccurrence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SingleOccurrence/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StockSpanner/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StockSpanner/StockSpanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SubstringWithConcatenationOfAllWords/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TripsAndUsers/Solution.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UniquePaths/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UniquePaths/UniquePaths.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UniquePathsII/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UniquePathsII/UniquePathsII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ValidPalindrome/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ValidPalindromeII/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WordBreak/DidntWorkChain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WordBreak/DidntWorkExperiment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WordBreak/DidntWorkSolution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WordBreak/DidntWorkWord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WordBreakII/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WordBreakII/Segment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WordBreakII/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WordBreakII/WordBreakII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WordBreakII/WordBreakIIAgain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WordBreakII/WordBreakIIFromLeetCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WordBreakII/WordBreakIIUsingSegments.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WordSearch/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WordSearch/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WordSearch/WordSearchJustWorks.java" afterDir="false" />
+    <list default="true" id="669cfa45-fed8-47b0-ae05-f0b9fa383dfd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/BobTheAdventurer/Point2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BobTheAdventurer/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BobTheAdventurer/Solution2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FirstMissingPositive/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FirstMissingPositive/Solution2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sandbox/MergeSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice/LFUCache/LFUCache$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice/LFUCache/LFUCache.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice/LFUCache/LFUCache.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice/LFUCache/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice/LFUCache/Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LFUCache/LFUCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LFUCache/LFUCache.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LFUCache/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LFUCache/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Practice.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/AbstractClass/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/AbstractClass/AbstractClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/AbstractClass/B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/AbstractClass/M.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/AddAndSearchWord/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/AddAndSearchWord/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/AddAndSearchWord/WordDictionary$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/AddAndSearchWord/WordDictionary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/AddAndSearchWord/WordDictionaryBugFixes$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/AddAndSearchWord/WordDictionaryBugFixes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/AddDigits/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/AllOne/AllOne.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/AllOne/Key.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/AllOne/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/BestTimeToBuyAndSellStock/Instance.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/BestTimeToBuyAndSellStock/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/BinaryTreeInorderTraversal/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/BinaryTreeInorderTraversal/TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/BinaryTreePostOrderTraversal/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/BinaryTreePostOrderTraversal/TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/BinaryTreePreorderTraversal/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/BinaryTreePreorderTraversal/TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/CleverIntegerReversal/CleverIntegerReversal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/CleverIntegerReversal/CleverIntegerReversalWorkingSolution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/CleverIntegerReversal/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/CloneGraph/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/CloneGraph/SolutionBFS.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/CloneGraph/SolutionDFS.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/CloneGraph/SubmittedSolutionBFS.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/CloneGraph/UndirectedGraphNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/CourseSchedule/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/CourseSchedule/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/CourseSchedule/SubmittedSolution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/CourseSchedule/SubmittedSolutionTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/CourseScheduleII/CopyOfCourseScheduleIISubmittedSolution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/CourseScheduleII/Course.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/CourseScheduleII/CourseScheduleIISubmittedSolution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/CourseScheduleII/Example.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/CourseScheduleII/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/CourseScheduleII/TopologicalSortDFS.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/CoverPoints/CoverPoints.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/CoverPoints/Solution$Coordinate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/CoverPoints/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/DungeonGame/Cell.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/DungeonGame/DungeonGame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/DungeonGame/DungeonGameDynamicProgramming.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/DungeonGame/DungeonGameReverseTrace.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/DungeonGame/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/DungeonGame/Path.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/DungeonGame/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/EditDistance/EditDistance.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/FlattenBinaryTreeToLinkedList/FlattenBinaryTreeToLinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/FlattenBinaryTreeToLinkedList/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/FlattenBinaryTreeToLinkedList/TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/Graphs/BFSSolution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/Graphs/BreadthFirstSearch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/Graphs/DFSSolution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/Graphs/DepthFirstSearch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/Graphs/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/ImplementTrie/CurrentSubmittedSolution$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/ImplementTrie/CurrentSubmittedSolution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/ImplementTrie/ImplementTrie.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/ImplementTrie/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/ImplementTrie/ProperTrie.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/ImplementTrie/Sandbox.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/ImplementTrie/Solution$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/ImplementTrie/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/ImplementTrie/Trie.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/ImplementTrie/TrieNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/IntersectionOfTwoLinkedLists/IntersectionOfTwoLinkedLists.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/IntersectionOfTwoLinkedLists/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/IntersectionOfTwoLinkedLists/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/JumpGame/JumpGame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/JumpGame/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/JumpGame/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/JumpGameII/JumpGameII.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/JumpGameII/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/JumpGameII/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/LFUCache/LFUCache.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/LFUCache/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/LFUCache/OldLFUCache.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/LFUCache/SavingStateLFUCache.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/LFUCache/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/LRUCache/LRUCache.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/LRUCache/LRUCacheTimeExceeded.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/LRUCache/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/LRUCache/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/LangstonsAnt/Ant.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/LangstonsAnt/Cell.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/LangstonsAnt/LangstonsAnt$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/LangstonsAnt/LangstonsAnt$Ant.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/LangstonsAnt/LangstonsAnt$Cell.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/LangstonsAnt/LangstonsAnt$Orientation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/LangstonsAnt/LangstonsAnt$Simulation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/LangstonsAnt/LangstonsAnt$State.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/LangstonsAnt/LangstonsAnt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/LangstonsAnt/Simulation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/ListCycle/InefficientSolution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/ListCycle/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/ListCycle/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/MaximumGap/MaximumGap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/MaximumGap/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/MergeIntervals/CollectionsSandbox.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/MergeIntervals/GraphSolution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/MergeIntervals/Interval.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/MergeIntervals/ListSolution$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/MergeIntervals/ListSolution$IntervalComparator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/MergeIntervals/ListSolution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/MergeIntervals/MergeIntervals$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/MergeIntervals/MergeIntervals.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/MergeIntervals/StreamSandbox$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/MergeIntervals/StreamSandbox.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/PowerOfTwo/PowerOfTwo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/PowerOfTwo/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/ReconstructItinerary/Edge.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/ReconstructItinerary/Graph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/ReconstructItinerary/IncorrectItineraryFinder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/ReconstructItinerary/ItineraryFinder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/ReconstructItinerary/ItineraryFinderHierholzer$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/ReconstructItinerary/ItineraryFinderHierholzer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/ReconstructItinerary/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/ReconstructItinerary/ReconstructItinerary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/ReconstructItinerary/ReconstructItineraryEdges.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/ReconstructItinerary/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/ReconstructItinerary/SolutionHierholzer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/RedundantConnection/Edge.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/RedundantConnection/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/RedundantConnection/RedundantConnection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/RedundantConnection/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/RedundantConnection/archive/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/RedundantConnection/archive/SubmittedSolution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/RemoveDuplicateLetters/RemoveDuplicateLetters.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/RemoveDuplicateLetters/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/SerializeAndDeserialize/Codec.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/SerializeAndDeserialize/SerializeAndDeserialize.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/SerializeAndDeserialize/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/SerializeAndDeserialize/TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/SingleOccurrence/SingleOccurrence$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/SingleOccurrence/SingleOccurrence.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/SingleOccurrence/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/StockSpanner/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/StockSpanner/StockSpanner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/SubstringWithConcatenationOfAllWords/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/TopUsers/Solution$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/TopUsers/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/TopUsers/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/UniquePaths/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/UniquePaths/UniquePaths.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/UniquePathsII/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/UniquePathsII/UniquePathsII.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/ValidPalindrome/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/ValidPalindromeII/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/WordBreak/DidntWorkChain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/WordBreak/DidntWorkExperiment$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/WordBreak/DidntWorkExperiment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/WordBreak/DidntWorkSolution$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/WordBreak/DidntWorkSolution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/WordBreak/DidntWorkWord.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/WordBreakII/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/WordBreakII/Segment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/WordBreakII/Solution$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/WordBreakII/Solution$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/WordBreakII/Solution$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/WordBreakII/Solution$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/WordBreakII/Solution$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/WordBreakII/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/WordBreakII/WordBreakII.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/WordBreakII/WordBreakIIAgain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/WordBreakII/WordBreakIIFromLeetCode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/WordBreakII/WordBreakIIUsingSegments.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/WordSearch/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/WordSearch/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/WordSearch/WordSearchJustWorks.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -111,122 +193,34 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/Practice$Solution__1_.ic" NAME="Solution (1) Coverage Results" MODIFIED="1541815143910" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>PowerOfTwo.*</FILTER>
-    </SUITE>
-  </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="1761509000">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="47" />
-          <entry key="project.open.time.0" value="4" />
-          <entry key="project.open.time.1" value="5" />
-          <entry key="project.open.time.10" value="2" />
-          <entry key="project.open.time.11" value="1" />
-          <entry key="project.open.time.12" value="1" />
-          <entry key="project.open.time.13" value="1" />
-          <entry key="project.open.time.14" value="4" />
-          <entry key="project.open.time.15" value="2" />
-          <entry key="project.open.time.5" value="2" />
-          <entry key="project.open.time.6" value="5" />
-          <entry key="project.open.time.7" value="8" />
-          <entry key="project.open.time.8" value="12" />
-          <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="49" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="java" value="132" />
-          <entry key="sql" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="JAVA" value="132" />
-          <entry key="SQL" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="dummy" value="82" />
-          <entry key="java" value="38373" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="38373" />
-          <entry key="PLAIN_TEXT" value="82" />
-        </counts>
-      </usages-collector>
-    </session>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/PDFBox/restage-parser/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="900">
+              <caret line="60" column="51" selection-start-line="60" selection-start-column="51" selection-end-line="60" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/JumpGame/JumpGame.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="25">
-              <caret line="60" selection-start-line="60" selection-end-line="62" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#228#243#0" expanded="true" />
-                <element signature="e#312#321#0" expanded="true" />
-                <element signature="e#1704#1710#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/BestTimeToBuyAndSellStock/Instance.java">
+        <entry file="file://$PROJECT_DIR$/src/PDFBox/restage-parser/src/main/java/com/restageparser/app/App.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+              <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/JumpGame/Solution.java">
+        <entry file="file://$PROJECT_DIR$/src/PDFBox/restage-parser/src/test/java/com/restageparser/app/AppTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/JumpGame/Node.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/JumpGameII/Node.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/JumpGameII/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="18" selection-start-column="18" selection-end-column="18" />
+            <state relative-caret-position="30">
+              <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -240,118 +234,30 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>system.</find>
-      <find>seen at</find>
-      <find>print</find>
-      <find>doDFS</find>
-      <find>new ArrayL</find>
-      <find>se</find>
-      <find>SFO</find>
-      <find>stack</find>
-      <find>system.o</find>
-      <find>graph</find>
-      <find>itinerar</find>
-      <find>board</find>
-      <find>is reach</find>
-      <find>boi</find>
-      <find>bo</find>
-      <find>cats</find>
-      <find>a a a a a a a a a a a a a a a</find>
-      <find>a a a a a a a a a a a a a aa</find>
-      <find>worddic</find>
-      <find>a a a a a a a a a a aa a a a</find>
-      <find>list</find>
-      <find>a a a a a a a a a a a a a a</find>
-      <find>new Cell</find>
-      <find>system.out</find>
-      <find>system</find>
-      <find>totaldamage</find>
-      <find>cells have been</find>
-      <find>zee</find>
-      <find>2</find>
-      <find>cells have</find>
-    </findStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/LFUCache/Node.java" />
-        <option value="$PROJECT_DIR$/src/LFUCache/CleanLFUCache.java" />
-        <option value="$PROJECT_DIR$/src/LFUCache/LFUCache.java" />
-        <option value="$PROJECT_DIR$/src/SerializeAndDeserialize/TreeNode.java" />
-        <option value="$PROJECT_DIR$/src/SerializeAndDeserialize/Solution.java" />
-        <option value="$PROJECT_DIR$/src/SerializeAndDeserialize/Codec.java" />
-        <option value="$PROJECT_DIR$/src/ReconstructItinerary/Edge.java" />
-        <option value="$PROJECT_DIR$/src/ReconstructItinerary/IncorrectItineraryFinder.java" />
-        <option value="$PROJECT_DIR$/src/ReconstructItinerary/ReconstructItineraryEdges.java" />
-        <option value="$PROJECT_DIR$/src/ReconstructItinerary/ReconstructItinerary.java" />
-        <option value="$PROJECT_DIR$/src/ReconstructItinerary/Node.java" />
-        <option value="$PROJECT_DIR$/src/ReconstructItinerary/Graph.java" />
-        <option value="$PROJECT_DIR$/src/ReconstructItinerary/ItineraryFinder.java" />
-        <option value="$PROJECT_DIR$/src/ReconstructItinerary/Solution.java" />
-        <option value="$PROJECT_DIR$/src/ReconstructItinerary/SolutionHierholzer.java" />
-        <option value="$PROJECT_DIR$/src/ReconstructItinerary/ItineraryFinderHierholzer.java" />
-        <option value="$PROJECT_DIR$/src/EditDistance/EditDistance.java" />
-        <option value="$PROJECT_DIR$/src/WordSearch/Node.java" />
-        <option value="$PROJECT_DIR$/src/WordSearch/WordSearch.java" />
-        <option value="$PROJECT_DIR$/src/WordSearch/Solution.java" />
-        <option value="$PROJECT_DIR$/src/LangstonsAnt/Simulation.java" />
-        <option value="$PROJECT_DIR$/src/LangstonsAnt/LangstonsAnt.java" />
-        <option value="$PROJECT_DIR$/src/AllOne/Key.java" />
-        <option value="$PROJECT_DIR$/src/AllOne/Solution.java" />
-        <option value="$PROJECT_DIR$/src/AllOne/AllOne.java" />
-        <option value="$PROJECT_DIR$/src/TripsAndUsers/Solution.sql" />
-        <option value="$PROJECT_DIR$/src/WordBreakII/Node.java" />
-        <option value="$PROJECT_DIR$/src/WordBreak/DidntWorkSolution.java" />
-        <option value="$PROJECT_DIR$/src/WordBreakII/WordBreakIIUsingSegments.java" />
-        <option value="$PROJECT_DIR$/src/WordBreakII/WordBreakIIFromLeetCode.java" />
-        <option value="$PROJECT_DIR$/src/WordBreakII/WordBreakIIAgain.java" />
-        <option value="$PROJECT_DIR$/src/WordBreakII/Solution.java" />
-        <option value="$PROJECT_DIR$/src/WordBreakII/Segment.java" />
-        <option value="$PROJECT_DIR$/src/WordBreakII/WordBreakII.java" />
-        <option value="$PROJECT_DIR$/src/DungeonGame.java" />
-        <option value="$PROJECT_DIR$/src/DungeonGame/Path.java" />
-        <option value="$PROJECT_DIR$/src/DungeonGame/DungeonGameReverseDFS.java" />
-        <option value="$PROJECT_DIR$/src/DungeonGame/Node.java" />
-        <option value="$PROJECT_DIR$/src/DungeonGame/DungeonGame.java" />
-        <option value="$PROJECT_DIR$/src/DungeonGame/Cell.java" />
-        <option value="$PROJECT_DIR$/src/DungeonGame/DungeonGameReverseTrace.java" />
-        <option value="$PROJECT_DIR$/src/UniquePaths/UniquePaths.java" />
-        <option value="$PROJECT_DIR$/src/DungeonGame/Solution.java" />
-        <option value="$PROJECT_DIR$/src/DungeonGame/DungeonGameDynamicProgramming.java" />
-        <option value="$PROJECT_DIR$/src/JumpGameII.java" />
-        <option value="$PROJECT_DIR$/src/JumpGameII/Node.java" />
-        <option value="$PROJECT_DIR$/src/JumpGameII/JumpGameII.java" />
-        <option value="$PROJECT_DIR$/src/JumpGame/Node.java" />
-        <option value="$PROJECT_DIR$/src/JumpGameII/Solution.java" />
-        <option value="$PROJECT_DIR$/src/JumpGame/Solution.java" />
-        <option value="$PROJECT_DIR$/src/JumpGame/JumpGame.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/MergeSort.java" />
+        <option value="$PROJECT_DIR$/src/FirstMissingPositive/Solution.java" />
+        <option value="$PROJECT_DIR$/src/FirstMissingPositive/Solution2.java" />
+        <option value="$PROJECT_DIR$/src/Sandbox/MergeSort.java" />
+        <option value="$PROJECT_DIR$/src/BobTheAdventurer/Point2D.java" />
+        <option value="$PROJECT_DIR$/src/BobTheAdventurer/Solution2.java" />
+        <option value="$PROJECT_DIR$/src/BobTheAdventurer/Solution.java" />
+        <option value="$PROJECT_DIR$/src/PDFBox/restage-parser/pom.xml" />
+        <option value="$PROJECT_DIR$/src/PDFBox/restage-parser/src/main/java/com/restageparser/app/App.java" />
       </list>
     </option>
   </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
-  </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="dependencyTypes" value="jar, test-jar, maven-plugin, ejb, ejb-client, jboss-har, jboss-sar, war, ear, bundle, gwt-lib, gwt-app" />
-      </MavenImportingSettings>
-    </option>
-  </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="67" />
-    <option name="y" value="31" />
-    <option name="width" value="1440" />
-    <option name="height" value="831" />
+    <option name="x" value="30" />
+    <option name="y" value="23" />
+    <option name="width" value="1665" />
+    <option name="height" value="829" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -371,37 +277,43 @@
               <item name="Practice" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Practice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="restage-parser" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Practice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="restage-parser" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/alejandroluperon/practice/Practice/src/RedundantConnection/Solution.java" />
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546553541997" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557857138979" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="RedundantConnection" />
-      <recent name="LRUCache" />
-      <recent name="BinaryTreePostOrderTraversal" />
-      <recent name="CourseScheduleII" />
-      <recent name="CourseSchedule" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/WordBreak" />
+      <recent name="FirstMissingPositive" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -416,20 +328,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution">
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DidntWorkSolution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="WordBreak.DidntWorkSolution" />
+  <component name="RunManager" selected="Application.App">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PDFBox.src.main.java.com.restageparser.app.App" />
       <module name="Practice" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="WordBreak.*" />
+          <option name="PATTERN" value="PDFBox.src.main.java.com.restageparser.app.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -437,13 +342,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="WordBreakII.Solution" />
+    <configuration name="MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sandbox.MergeSort" />
       <module name="Practice" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="WordBreakII.*" />
+          <option name="PATTERN" value="Sandbox.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -451,27 +355,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DungeonGame.Solution" />
+    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BobTheAdventurer.Solution" />
       <module name="Practice" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DungeonGame.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JumpGameII.Solution" />
-      <module name="Practice" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JumpGameII.*" />
+          <option name="PATTERN" value="BobTheAdventurer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -480,12 +369,11 @@
       </method>
     </configuration>
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JumpGame.Solution" />
+      <option name="MAIN_CLASS_NAME" value="FirstMissingPositive.Solution" />
       <module name="Practice" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JumpGame.*" />
+          <option name="PATTERN" value="FirstMissingPositive.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -493,87 +381,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="LFUCache.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="LFUCache.Solution" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
+    <configuration name="Solution2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FirstMissingPositive.Solution2" />
       <module name="Practice" />
-      <envs />
-    </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+      <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ValidPalindromeII.*" />
+          <option name="PATTERN" value="FirstMissingPositive.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="ValidPalindromeII.Solution" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Practice" />
-      <envs />
-    </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="JUnit" factoryName="JUnit">
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
-      <module name="" />
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
-      <option name="PROGRAM_PARAMETERS" />
-      <predefined_log_file id="idea.log" enabled="true" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <list>
-      <item itemvalue="Application.Solution (2)" />
-      <item itemvalue="Application.DidntWorkSolution" />
-      <item itemvalue="Application.Solution (3)" />
-      <item itemvalue="Application.Solution (4)" />
-      <item itemvalue="Application.Solution" />
-    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.App" />
+        <item itemvalue="Application.Solution (1)" />
+        <item itemvalue="Application.MergeSort" />
+        <item itemvalue="Application.Solution2" />
         <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.Solution (4)" />
-        <item itemvalue="Application.Solution (3)" />
-        <item itemvalue="Application.Solution (2)" />
-        <item itemvalue="Application.DidntWorkSolution" />
       </list>
     </recent_temporary>
   </component>
@@ -582,616 +409,129 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="d86f7427-984f-41ea-8a74-373f6429b3a6" name="Default" comment="" />
-      <created>1527374123110</created>
+      <changelist id="669cfa45-fed8-47b0-ae05-f0b9fa383dfd" name="Default Changelist" comment="" />
+      <created>1557856569061</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1527374123110</updated>
-      <workItem from="1527374128244" duration="1811000" />
-      <workItem from="1527431252886" duration="356000" />
-      <workItem from="1527547738080" duration="872000" />
-      <workItem from="1527602683267" duration="54000" />
-      <workItem from="1528060656439" duration="1009000" />
-      <workItem from="1528115547045" duration="65000" />
-      <workItem from="1528556122320" duration="3805000" />
-      <workItem from="1528636936140" duration="14754000" />
-      <workItem from="1528684333220" duration="3569000" />
-      <workItem from="1528689460073" duration="813000" />
-      <workItem from="1528720590529" duration="50000" />
-      <workItem from="1528851568450" duration="2492000" />
-      <workItem from="1528854126864" duration="574000" />
-      <workItem from="1528855485917" duration="56000" />
-      <workItem from="1528892857765" duration="27000" />
-      <workItem from="1528936073954" duration="447000" />
-      <workItem from="1528937019929" duration="2393000" />
-      <workItem from="1528979934595" duration="12000" />
-      <workItem from="1529096297115" duration="9879000" />
-      <workItem from="1529164954822" duration="15727000" />
-      <workItem from="1529325669048" duration="85000" />
-      <workItem from="1529724254933" duration="4821000" />
-      <workItem from="1529767054398" duration="1589000" />
-      <workItem from="1529852821599" duration="293000" />
-      <workItem from="1529856044778" duration="20451000" />
-      <workItem from="1529929513948" duration="1662000" />
-      <workItem from="1529933117968" duration="568000" />
-      <workItem from="1529940409983" duration="3508000" />
-      <workItem from="1530233030166" duration="309000" />
-      <workItem from="1530471752872" duration="7223000" />
-      <workItem from="1530535063674" duration="225000" />
-      <workItem from="1530559653031" duration="569000" />
-      <workItem from="1530900651632" duration="4211000" />
-      <workItem from="1530909361450" duration="4332000" />
-      <workItem from="1530915720052" duration="4136000" />
-      <workItem from="1530997832293" duration="7000" />
-      <workItem from="1531086150259" duration="8499000" />
-      <workItem from="1531097588260" duration="3763000" />
-      <workItem from="1531102540050" duration="1562000" />
-      <workItem from="1531141893542" duration="58000" />
-      <workItem from="1539282132132" duration="8007000" />
-      <workItem from="1539350895069" duration="583000" />
-      <workItem from="1539563682074" duration="929000" />
-      <workItem from="1539609330693" duration="14000" />
-      <workItem from="1541447812241" duration="1857000" />
-      <workItem from="1541536655616" duration="7080000" />
-      <workItem from="1541645987638" duration="1151000" />
-      <workItem from="1541696295429" duration="524000" />
-      <workItem from="1541790132538" duration="2807000" />
-      <workItem from="1541807302010" duration="3880000" />
-      <workItem from="1541890672516" duration="309000" />
-      <workItem from="1541969617727" duration="213000" />
-      <workItem from="1542031180946" duration="210000" />
-      <workItem from="1542226855208" duration="371000" />
-      <workItem from="1542500959504" duration="2946000" />
-      <workItem from="1542506409273" duration="33000" />
-      <workItem from="1542557991831" duration="2629000" />
-      <workItem from="1542660272194" duration="325000" />
-      <workItem from="1542746888509" duration="9000" />
-      <workItem from="1542858267180" duration="551000" />
-      <workItem from="1542919383619" duration="4841000" />
-      <workItem from="1542941877374" duration="776000" />
-      <workItem from="1542984190619" duration="2000" />
-      <workItem from="1543001169446" duration="9362000" />
-      <workItem from="1543025576682" duration="2541000" />
-      <workItem from="1543028818656" duration="218000" />
-      <workItem from="1543183642823" duration="62000" />
-      <workItem from="1543689663704" duration="6736000" />
-      <workItem from="1543704172327" duration="268000" />
-      <workItem from="1543787341589" duration="2418000" />
-      <workItem from="1543797994092" duration="3307000" />
-      <workItem from="1543803613063" duration="13000" />
-      <workItem from="1543870560375" duration="2118000" />
-      <workItem from="1543877886670" duration="1861000" />
-      <workItem from="1543934161575" duration="409000" />
-      <workItem from="1544115890291" duration="627000" />
-      <workItem from="1544136571531" duration="596000" />
-      <workItem from="1544194173628" duration="597000" />
-      <workItem from="1544820068639" duration="3659000" />
-      <workItem from="1545149777590" duration="1140000" />
-      <workItem from="1545416646252" duration="8955000" />
-      <workItem from="1545616625986" duration="396000" />
-      <workItem from="1546119249139" duration="4910000" />
-      <workItem from="1546187929204" duration="13458000" />
-      <workItem from="1546286415550" duration="2807000" />
-      <workItem from="1546378058754" duration="6541000" />
-      <workItem from="1546439206495" duration="90000" />
-      <workItem from="1546544123734" duration="6664000" />
+      <updated>1557856569061</updated>
+      <workItem from="1557856572921" duration="538000" />
+      <workItem from="1557857680268" duration="474000" />
+      <workItem from="1557862551540" duration="125000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="246436000" />
+    <option name="totallyTimeSpent" value="1137000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="67" y="31" width="1440" height="831" extended-state="0" />
+    <frame x="30" y="23" width="1665" height="829" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22031474" />
-      <window_info id="Structure" order="1" weight="0.24944812" />
-      <window_info id="Designer" order="2" />
-      <window_info id="Image Layers" order="3" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4941957" visible="true" weight="0.18669131" />
+      <window_info id="Structure" order="1" sideWeight="0.5058043" side_tool="true" visible="true" weight="0.18669131" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
-      <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info id="Capture Tool" order="6" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3292683" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.47225982" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.52168024" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.31935048" />
-      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Thumbnails" order="12" weight="0.32971507" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Database" order="5" />
-      <window_info anchor="right" id="Packages" order="6" />
-      <window_info anchor="right" id="Maven Projects" order="7" />
-      <window_info anchor="right" id="The R Graphics" order="8" />
-      <window_info anchor="right" id="SciView" order="9" />
-      <window_info anchor="right" id="Palette&#9;" order="10" />
-      <window_info anchor="right" id="Theme Preview" order="11" />
-      <window_info anchor="right" id="Coverage" order="12" side_tool="true" weight="0.19182156" />
-    </layout>
-    <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.32689556" />
-      <window_info id="Structure" order="1" weight="0.24944812" />
-      <window_info id="Designer" order="2" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info id="Capture Tool" order="6" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.31436315" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.52168024" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.26145554" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39891452" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.3197832" />
-      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Thumbnails" order="12" weight="0.32971507" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" visible="true" weight="0.18181819" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Database" order="5" />
-      <window_info anchor="right" id="Packages" order="6" />
-      <window_info anchor="right" id="Maven Projects" order="7" />
-      <window_info anchor="right" id="The R Graphics" order="8" />
-      <window_info anchor="right" id="SciView" order="9" />
-      <window_info anchor="right" id="Palette&#9;" order="10" />
-      <window_info anchor="right" id="Theme Preview" order="11" />
-      <window_info anchor="right" id="Coverage" order="12" side_tool="true" weight="0.19182156" />
-    </layout-to-restore>
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/CourseSchedule/Solution.java</url>
-          <line>30</line>
-          <properties />
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/CourseSchedule/Solution.java</url>
-          <line>1</line>
-          <properties />
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/CourseScheduleII/CopyOfCourseScheduleIISubmittedSolution.java</url>
-          <line>751</line>
-          <properties />
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/CourseScheduleII/TopologicalSortDFS.java</url>
-          <line>78</line>
-          <properties />
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/CourseScheduleII/TopologicalSortDFS.java</url>
-          <line>77</line>
-          <properties />
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ImplementTrie/ProperTrie.java</url>
-          <line>84</line>
-          <properties />
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/CleverIntegerReversal/Solution.java</url>
-          <line>53</line>
-          <properties class="CleverIntegerReversal.Solution">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="9" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/ReconstructItinerary/IncorrectItineraryFinder.java">
+    <entry file="file://$PROJECT_DIR$/src/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/FirstMissingPositive/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="990">
-          <caret line="66" column="7" selection-start-line="66" selection-start-column="7" selection-end-line="66" selection-end-column="7" />
+        <state relative-caret-position="77">
+          <caret line="6" column="62" selection-start-line="6" selection-start-column="62" selection-end-line="6" selection-end-column="62" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ReconstructItinerary/ItineraryFinder.java">
+    <entry file="file://$PROJECT_DIR$/src/FirstMissingPositive/Solution2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="705">
-          <caret line="47" column="10" selection-end-line="82" />
+        <state relative-caret-position="1620">
+          <caret line="108" column="27" selection-start-line="108" selection-start-column="27" selection-end-line="108" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ReconstructItinerary/Solution.java">
+    <entry file="file://$PROJECT_DIR$/src/Sandbox/MergeSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="44" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
+        <state relative-caret-position="664">
+          <caret line="63" column="24" selection-start-line="63" selection-start-column="24" selection-end-line="63" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ReconstructItinerary/ItineraryFinderHierholzer.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.2.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/Thread.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="24" column="32" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
+        <state relative-caret-position="-61">
+          <caret line="833" selection-start-line="833" selection-end-line="833" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ReconstructItinerary/SolutionHierholzer.java">
+    <entry file="file://$PROJECT_DIR$/src/BobTheAdventurer/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="960">
-          <caret line="64" column="75" selection-start-line="64" selection-start-column="75" selection-end-line="64" selection-end-column="75" />
+        <state relative-caret-position="915">
+          <caret line="61" selection-start-line="61" selection-end-line="61" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ReconstructItinerary/Graph.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="17" selection-start-line="17" selection-end-line="25" selection-end-column="5" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/src/BobTheAdventurer/Solution2.java">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/EditDistance/EditDistance.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34995">
-          <caret line="2414" column="6" selection-start-line="2414" selection-start-column="6" selection-end-line="2414" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ReconstructItinerary/Node.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/WordSearch/Node.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/WordSearch/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="76" selection-start-line="22" selection-start-column="76" selection-end-line="22" selection-end-column="76" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LangstonsAnt/LangstonsAnt.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="30" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/WordSearch/WordSearchJustWorks.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="765">
-          <caret line="53" column="115" selection-start-line="53" selection-start-column="115" selection-end-line="53" selection-end-column="115" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LFUCache/LFUCache.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AllOne/Key.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LangstonsAnt/Simulation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LangstonsAnt/Ant.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LangstonsAnt/Cell.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" selection-start-line="4" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BinaryTreeInorderTraversal/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-234">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AllOne/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TripsAndUsers/Solution.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AllOne/AllOne.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="61" column="45" selection-start-line="61" selection-start-column="45" selection-end-line="61" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/WordBreak/DidntWorkWord.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/WordBreakII/Node.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/WordBreak/DidntWorkSolution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/WordBreakII/WordBreakIIUsingSegments.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="13" column="48" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/WordBreakII/WordBreakIIAgain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="7" column="29" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/WordBreakII/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-130">
-          <caret line="21" column="32" lean-forward="true" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/WordBreakII/WordBreakIIFromLeetCode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="35" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/WordBreakII/Segment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="92" selection-start-line="17" selection-start-column="92" selection-end-line="17" selection-end-column="92" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/WordBreakII/WordBreakII.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DungeonGame/Cell.java">
+    <entry file="file://$PROJECT_DIR$/src/BobTheAdventurer/Point2D.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="20" lean-forward="true" selection-start-column="20" selection-end-column="20" />
+          <caret column="25" selection-start-column="25" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DungeonGame/Path.java">
+    <entry file="file://$PROJECT_DIR$/src/MergeSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="19" lean-forward="true" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        <state relative-caret-position="60">
+          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="41" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/UniquePathsII/Solution.java">
+    <entry file="file://$PROJECT_DIR$/src/PDFBox/restage-parser/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="60" column="51" selection-start-line="60" selection-start-column="51" selection-end-line="60" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PDFBox/restage-parser/src/test/java/com/restageparser/app/AppTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PDFBox/restage-parser/src/main/java/com/restageparser/app/App.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/UniquePathsII/UniquePathsII.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DungeonGame/DungeonGame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1530">
-          <caret line="106" column="27" selection-end-line="141" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DungeonGame/Node.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/src.zip!/java/util/Optional.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1500">
-          <caret line="134" selection-start-line="134" selection-end-line="134" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/UniquePaths/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/UniquePaths/UniquePaths.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DungeonGame/DungeonGameReverseTrace.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="659">
-          <caret line="146" column="41" selection-start-line="146" selection-start-column="41" selection-end-line="146" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DungeonGame/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="659">
-          <caret line="4341" column="63" selection-start-line="4341" selection-start-column="63" selection-end-line="4341" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DungeonGame/DungeonGameDynamicProgramming.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1934">
-          <caret line="140" column="36" selection-start-line="140" selection-start-column="36" selection-end-line="140" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JumpGameII/Node.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JumpGameII/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="18" selection-start-column="18" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JumpGameII/JumpGameII.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="113">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#231#246#0" expanded="true" />
-            <element signature="e#293#302#0" expanded="true" />
-            <element signature="e#1405#1411#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JumpGame/Node.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JumpGame/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BestTimeToBuyAndSellStock/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BestTimeToBuyAndSellStock/Instance.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JumpGame/JumpGame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="60" selection-start-line="60" selection-end-line="62" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#228#243#0" expanded="true" />
-            <element signature="e#312#321#0" expanded="true" />
-            <element signature="e#1704#1710#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1224,7 +564,6 @@
       </state>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
-          <last-edited>Python 2.7.6 (/usr/bin/python) interpreter library</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1236,7 +575,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>1.6</last-edited>
+          <last-edited>11</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1249,19 +588,6 @@
       <state key="ModuleStructureConfigurable.UI">
         <settings>
           <last-edited>Practice</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-                <option value="0.6" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.8 (1)</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
